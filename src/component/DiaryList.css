@@ -24,3 +24,11 @@
     font-family: "Nanum Pen Script";
     font-size: 18px;
 }
+
+.DiaryList .menu_wrapper .right_col {
+    flex-grow: 1;
+}
+
+.DiaryList .menu_wrapper .right_col button {
+    width: 100%;
+}

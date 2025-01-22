@@ -6,6 +6,7 @@ import emotion5 from './img/emotion5.png';
 
 export const getEmotionImgById = (emotionId) => {
     const targetEmotionId = String(emotionId);
+    
     switch (targetEmotionId){
         case "1":
             return emotion1;
