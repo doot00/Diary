@@ -1,7 +1,6 @@
 import { getFormattedDate, emotionList } from "../util";
 import { EmotionItem } from "./EmotionItem";
 import React, { useEffect } from "react";
-import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import "./Editor.css";
 import Button from "./Button";
